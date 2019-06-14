@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="banda1">
+        <item>negro</item>
+        <item>rojo</item>
+        <item>cafe</item>
+        <item>naranja</item>
+        <item>amarillo</item>
+        <item>verde</item>
+        <item>azul</item>
+        <item>violeta</item>
+        <item>gris</item>
+        <item>blanco</item>
+    </string-array>
+    <string-array name="tolerancia">
+        <item>rojo</item>
+        <item>dorado</item>
+        <item>plata</item>
+    </string-array>
+</resources>
